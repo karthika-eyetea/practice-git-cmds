@@ -2,6 +2,8 @@ i'm in master branch - m1
 
 2nd commit in master branch - m2
 
+3rd commit in master branch - m3
+
 i'm in feature branch - f1
 
 2nd commit in feature - f2
@@ -9,3 +11,5 @@ i'm in feature branch - f1
 3rd commit in feature - f3
 
 4th commit in feature_1 - f1_1
+
+5th commit in master - m4
